@@ -8,4 +8,4 @@ composer require onetoweb/mendrix-egcs
 
 ## Usage
 
-See example.php
+See [example.php](/example.php)
